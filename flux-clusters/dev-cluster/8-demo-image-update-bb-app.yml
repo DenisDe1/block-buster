@@ -12,7 +12,7 @@ spec:
     commit:
       author:
         email: fluxcdbot@users.noreply.github.com
-        name: fluxbot
+        name: fuxcdbot
     push:
       branch: 8-demo
   interval: 1m40s
